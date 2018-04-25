@@ -12,3 +12,4 @@ unit:
   - methods and variables
 lesson: 
   - defining, calling, scope, arguments
+parent_template: git@github.com:learn-co-curriculum/ruby-arguments-readme.git
